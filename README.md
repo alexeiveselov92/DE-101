@@ -1,4 +1,4 @@
-# <img src="https://static.tildacdn.com/tild6564-6139-4461-b535-333162343736/logo_datalearn.svg" alt="drawing" width="22"/> Учебный репозиторий курса DATALEARN.RU 
+# <img src="https://static.tildacdn.com/tild6564-6139-4461-b535-333162343736/logo_datalearn.svg" alt="drawing" width="25"/> Учебный репозиторий курса DATALEARN.RU 
 
 Модуль|Описание
 -|-
