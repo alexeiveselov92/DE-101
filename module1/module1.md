@@ -9,4 +9,4 @@
 ![Схема БД моего проекта](https://github.com/alexeiveselov92/DE-101/blob/main/module1/postgresql_mindmap.png)
 ### Архитектура аналитического решения моего проекта
 
-![asd](https://github.com/alexeiveselov92/DE-101/blob/main/module1/архитектура.drawio)
+![asd](https://github.com/alexeiveselov92/DE-101/blob/main/module1/архитектура.png)
